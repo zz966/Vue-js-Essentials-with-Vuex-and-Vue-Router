@@ -15,7 +15,7 @@ import SearchBar from './components/SearchBar'
 import VideoList from './components/VideoList'
 import VideoDetail from './components/VideoDetail'
 
-const API_KEY ="AIzaSyDD5xxgWCO024AiMVwDYVnw1hy1FQ3g7MQ";
+const API_KEY ="{replace with your YouTube API_KEY}";
 
 
 export default {
